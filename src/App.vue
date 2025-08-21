@@ -93,6 +93,7 @@ const clearPlayerName = () => {
 const selectCharacter = (charId) => {
   if (!playerName.value) {
     alert("Please enter your name first")
+    refNameInput.value.focus()
     return;
   }
 
