@@ -1,0 +1,42 @@
+[
+  {
+    "id": "marco",
+    "name": "MARCO ROSSI",
+    "selected": false,
+    "gif": "/images/marco.gif",
+    "description": "Well-balanced assault specialist with strong firepower.",
+    "health": 100,
+    "speed": 80,
+    "power": 85
+  },
+  {
+    "id": "tarma",
+    "name": "TARMA ROVING",
+    "selected": false,
+    "gif": "/images/tarma.gif",
+    "description": "Vehicle expert with superior technical skills.",
+    "health": 90,
+    "speed": 75,
+    "power": 90
+  },
+  {
+    "id": "fio",
+    "name": "FIO GERMI",
+    "selected": false,
+    "gif": "/images/fio.gif",
+    "description": "Weapons specialist with abundant supply of ammunition.",
+    "health": 80,
+    "speed": 85,
+    "power": 95
+  },
+  {
+    "id": "eri",
+    "name": "ERI KASAMOTO",
+    "selected": false,
+    "gif": "/images/eri.gif",
+    "description": "Stealth expert skilled in infiltration and explosives.",
+    "health": 85,
+    "speed": 90,
+    "power": 80
+  }
+]
