@@ -4,7 +4,7 @@
     <div class="scanlines"></div>
     <div class="container">
       <header>
-        <h1>METAL SLUG X</h1>
+        <h1 class="game-name">METAL SLUG X</h1>
         <div class="player-info">
           <input ref="refNameInput" v-if="!playerName" v-model="playerTagInput" @keyup.enter="setPlayerName"
             placeholder="ENTER PLAYER NAME" type="text" maxlength="12">
@@ -19,7 +19,7 @@
       </header>
 
       <div class="instructions">
-        <p>SELECT YOUR CHARACTER - PRESS START TO BEGIN MISSION</p>
+        <p>enter your IGN - Insert a coin - SELECT YOUR CHARACTER</p>
       </div>
 
       <div class="character-grid">
@@ -51,7 +51,7 @@
       </div>
 
       <footer>
-        <p>© 2023 SNK CORPORATION - METAL SLUG ARCADE EDITION</p>
+        <p>© 1999 SNK CORPORATION - METAL SLUG X</p>
       </footer>
     </div>
   </div>
